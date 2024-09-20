@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(36, 36, 36);
+}
+
+h1{
+    color: rgb(245, 245, 245);
+    text-align: center;
+    padding: 2vw 1vw;
+    font-size: clamp(1rem,8vw,4rem);
+    margin-bottom: 10vw;
+}
+
+#ipDisplay{
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+    margin: 0px 10vw;
+    font-size: clamp(1rem,8vw,4rem);
+    color: rgb(184, 184, 184);
+}
